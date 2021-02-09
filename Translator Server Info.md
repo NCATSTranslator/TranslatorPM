@@ -15,4 +15,6 @@
 |Exploring Agent|PFOCR Provider|pending.biothings.io/pfocr||
 |Exposures Provider|ICEES+ Provider|icees.renci.org:16340||
 |Exposures Provider|CAM Provider|stars-app.renci.org/cam-kp||
-
+|(im)Prove Agent|(im)Prove Agent|evidara.healthdatascience.cloud||
+|(im)Prove Agent|SPOKE Provider|||
+|Genetics Provider|Genetics Provider|||
