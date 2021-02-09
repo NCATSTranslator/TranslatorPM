@@ -1,4 +1,4 @@
-|Team|Tool|Federated Dev|Hosted Dev|Hosted Prod
+|Team|Tool|Federated Dev|NCATS ITRB Hosted Dev|NCATS ITRB Hosted Prod
 |---|---|---|---|---
 |Link Brokers|ARS|ars-dev.transltr.io|ars-dev.transltr.io|ars.transltr.io
 |Clinical Data Services|COHD Provider|tr-kp-clinical.ncats.io||
@@ -6,7 +6,6 @@
 |Clinical Data Services|OpenPredict Provider|openpredict.semanticscience.org||
 |Clinical Data Services|Translator Knowledge Collaboratory Provider|collaboratory.semanticscience.org||
 |Clinical Data Services|RCT PICO Provider|||
-|Clinical Data Services|COHD Provider|tr-kp-clinical.ncats.io||
 |Connections Hypothesis Provider|CHP|chp.thayer.dartmouth.edu||
 |Expander Agent|ARAX Agent|arax.ncats.io||
 |Explanatory Agent|xARA Agent|explantory-agent.azurewebsites.net/v1.0||
