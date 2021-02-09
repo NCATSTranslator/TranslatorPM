@@ -20,11 +20,11 @@ This page is a work in progress.  As we move through figuring out how to deploy 
 |(im)Prove Agent|SPOKE Provider|||
 |Genetics Provider|Genetics Provider|translator.broadinstitute.org/genetics_provider||
 |Molecular Data Provider|MolePro|translator.broadinstitute.org/molepro||
-|Multiomics Provider|Wellness Provider|||
-|Multiomics Provider|BigGim|||
-|Multiomics Provider|Drug Response Provider|||
-|Multiomics Provider|TCGA Mutation Frequency Provider|||
-|Multiomics Provider|Clinical Risk Provider|||
+|Multiomics Provider|Wellness Provider|biothings.ncats.io||
+|Multiomics Provider|BigGim|biothings.ncats.io||
+|Multiomics Provider|Drug Response Provider|biothings.ncats.io||
+|Multiomics Provider|TCGA Mutation Frequency Provider|biothings.ncats.io||
+|Multiomics Provider|Clinical Risk Provider|biothings.ncats.io||
 |Multiomics Provider|BigQuery Table|||
 |Ranking Agent|Aragorn Agent|aragorn.renci.org||
 |Ranking Agent|Automat Provider|automat.renci.org||
