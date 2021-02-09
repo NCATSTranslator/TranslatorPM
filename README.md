@@ -10,3 +10,5 @@ As such, the expectations for Translator components are scoped as follows:
 - All "primary" Providers are expected to be contributing in the prod environment (either directly with the ARS if TRAPI compliant, or via Agents)
 - Provider teams may decide to "opt-out" their "secondary" KPs are under development, or not used by ARAs
 - Shared components - as depedencies necessitate
+
+Currently we are working on identifying Federated Dev Instances (docs/Translator Server Info.md)
