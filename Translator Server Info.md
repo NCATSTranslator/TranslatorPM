@@ -8,7 +8,7 @@
 |Clinical Data Services|RCT PICO Provider|||
 |Clinical Data Services|COHD Provider|tr-kp-clinical.ncats.io||
 |Connections Hypothesis Provider|CHP|chp.thayer.dartmouth.edu||
-|Expander Agent|ARAX Agent|arax.ncats.io||NCATS AWS
+|Expander Agent|ARAX Agent|arax.ncats.io||
 |Explanatory Agent|xARA Agent|explantory-agent.azurewebsites.net/v1.0||
 |Exploring Agent|BTE Agent|biothings.ncats.io||
 |Exploring Agent|BTE Agent|bte.ncats.io||
