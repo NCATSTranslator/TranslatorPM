@@ -28,10 +28,8 @@ This page is a work in progress.  As we move through figuring out how to deploy 
 |Ranking Agent|Aragorn Agent|aragorn.renci.org||
 |Ranking Agent|Automat Provider|automat.renci.org||
 |Service Provider|Service Provider|biothings.ncats.io||
-|Text Mining Provider|Biolink Association KG|35.232.64.189||
-|Text Mining Provider|Cooccurrence KG|||
-|Text Mining Provider|Ontology KG|||
-|Text Mining Provider|Targeted Association|||
+|Text Mining Provider|Cooccurrence KG|smart-api.info/ui/5be0f321a829792e934545998b9c6afe||
+|Text Mining Provider|Targeted Association KG|smart-api.info/ui/978fe380a147a8641caf72320862697b||
 |Unsecret Agent|Unsecret Agent|unsecret.ncats.io||
 |SRI|Biolink (BL) Lookup|bl-lookup.sri.renci.org||
 |SRI|Reference KG|monarch-sandbox.cgrb.oregonstate.edu||
