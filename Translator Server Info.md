@@ -9,7 +9,7 @@ This page is a work in progress.  As we move through figuring out how to deploy 
 |Clinical Data Services|Translator Knowledge Collaboratory Provider|collaboratory.semanticscience.org||
 |Clinical Data Services|RCT PICO Provider|||
 |Connections Hypothesis Provider|CHP|chp.thayer.dartmouth.edu||
-|Expander Agent|ARAX Agent|arax.ncats.io||
+|Expander Agent|ARAX|arax.ncats.io||
 |Explanatory Agent|xARA Agent|explantory-agent.azurewebsites.net/v1.0||
 |Exploring Agent|BTE Agent|api.bte.ncats.io||
 |Exploring Agent|PFOCR Provider|biothings.ncats.io/pfocr||
