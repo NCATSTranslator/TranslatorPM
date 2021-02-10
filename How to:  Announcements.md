@@ -21,7 +21,9 @@ Announcements can be added to the board two ways:
    - After creating the issue, in the Projects pane on the right, select the Announcements Project
    - It may ask you to "Triage" the issue, if that is the case, select the appropriate column 
    - From the issue, click on the Announcements link the project pane
-3. Review the board, if your issue does not appear:
+3. If you would like to notify a specific committee(s), working group(s), or project team(s), include @ncatstranslator[insert GitHub team here] in the text of the issue
+   - Does not work in Notes
+4. Review the board, if your issue does not appear:
    - Click '+ Add cards'
    - Search to find your card
    - Drag it to the appropriate Column
