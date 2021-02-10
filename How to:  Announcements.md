@@ -32,5 +32,5 @@ General Guidelines:
 - Issues without due dates will be removed from the board (but can still be in the repo) after 1 week
 - Gazette and Relay reminders may stay on the board longer
 - Recap Announcements will be included on the board
-- Committee and WGs moderaters/PMs should consider adding their announcements to their repo and adding the announcements following their meetings
+- Committee and WGs moderaters/PMs should consider adding their announcements to their repo and adding the announcements to the board following their meetings
    
