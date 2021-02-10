@@ -6,7 +6,7 @@ This page is a work in progress.  As we move through figuring out how to deploy 
 |Clinical Data Services|COHD Provider|tr-kp-clinical.ncats.io||
 |Clinical Data Services|NeuroDKG Provider|||
 |Clinical Data Services|OpenPredict Provider|openpredict.semanticscience.org||
-|Clinical Data Services|Translator Knowledge Collaboratory Provider|collaboratory.semanticscience.org||
+|Clinical Data Services|Translator Knowledge Collaboratory Provider|api.collaboratory.semanticscience.org||
 |Clinical Data Services|RCT PICO Provider|||
 |Connections Hypothesis Provider|CHP|chp.thayer.dartmouth.edu||
 |Expander Agent|ARAX Agent|arax.ncats.io||
