@@ -27,7 +27,7 @@ This page is a work in progress.  As we move through figuring out how to deploy 
 |Multiomics Provider|BigQuery Table|||
 |Ranking Agent|Aragorn Agent|aragorn.renci.org||
 |Ranking Agent|Automat Provider|automat.renci.org||
-|Service Provider||||
+|Service Provider|Service Provider|biothings.ncats.io||
 |Text Mining Provider|Biolink Association KG|35.232.64.189||
 |Text Mining Provider|Cooccurrence KG|||
 |Text Mining Provider|Ontology KG|||
