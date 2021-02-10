@@ -11,9 +11,8 @@ This page is a work in progress.  As we move through figuring out how to deploy 
 |Connections Hypothesis Provider|CHP|chp.thayer.dartmouth.edu||
 |Expander Agent|ARAX Agent|arax.ncats.io||
 |Explanatory Agent|xARA Agent|explantory-agent.azurewebsites.net/v1.0||
-|Exploring Agent|BTE Agent|biothings.ncats.io||
-|Exploring Agent|BTE Agent|bte.ncats.io||
-|Exploring Agent|PFOCR Provider|pending.biothings.io/pfocr||
+|Exploring Agent|BTE Agent|api.bte.ncats.io||
+|Exploring Agent|PFOCR Provider|biothings.ncats.io/pfocr||
 |Exposures Provider|ICEES+ Provider|icees.renci.org:16340||
 |Exposures Provider|CAM Provider|stars-app.renci.org/cam-kp||
 |(im)Prove Agent|(im)Prove Agent|evidara.healthdatascience.cloud||
@@ -28,7 +27,7 @@ This page is a work in progress.  As we move through figuring out how to deploy 
 |Multiomics Provider|BigQuery Table|||
 |Ranking Agent|Aragorn Agent|aragorn.renci.org||
 |Ranking Agent|Automat Provider|automat.renci.org||
-|Service Provider||||
+|Service Provider|Service Provider|biothings.ncats.io||
 |Text Mining Provider|Cooccurrence KG|smart-api.info/ui/5be0f321a829792e934545998b9c6afe||
 |Text Mining Provider|Targeted Association KG|smart-api.info/ui/978fe380a147a8641caf72320862697b||
 |Unsecret Agent|Unsecret Agent|unsecret.ncats.io||
