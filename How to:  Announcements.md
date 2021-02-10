@@ -1,4 +1,4 @@
-The NCATSTranslator Org has an Announcements Project Board linked to the following repos:
+The NCATSTranslator Org has an Announcements Project Board linked to the following org repos [additional repos should be added as needed]:
 
 - TranslatorPM
 - Committees
