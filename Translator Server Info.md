@@ -25,6 +25,7 @@ This page is a work in progress.  As we move through figuring out how to deploy 
 |Multiomics Provider|TCGA Mutation Frequency Provider|biothings.ncats.io||
 |Multiomics Provider|Clinical Risk Provider|biothings.ncats.io||
 |Multiomics Provider|BigQuery Table|||
+|Ranking Agent|Strider|robokop.renci.org:5781||
 |Ranking Agent|Aragorn Agent|aragorn.renci.org||
 |Ranking Agent|Automat Provider|automat.renci.org||
 |Service Provider|Service Provider|biothings.ncats.io||
