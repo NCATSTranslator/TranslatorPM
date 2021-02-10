@@ -4,6 +4,9 @@ The issues in this repo are activities related to the integrated project managem
 
 The current critical path for Translator targets a (soft) Production release to NCATS Hosting by December 2021.  This will be an iterative, joint process.  Teams will continue to develop and enahnce tools independently while also working toward the shared goal of an enterprise-quality Translator.
 
+
+![Translator Trajectory 2021 - Winter Relay February 3 - 7th](https://github.com/NCATSTranslator/TranslatorPM/blob/main/images/Translator%20Trajectory%202021.jpg)
+
 An overview of the timelines is:
 - **Translator Dev Components Hosted or SLAs in Place By:**  April 15, 2021
   - **TRAPI v1.1 Fully Implemented By:** April 30, 2021
