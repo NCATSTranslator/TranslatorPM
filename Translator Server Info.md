@@ -17,7 +17,7 @@ This page is a work in progress.  As we move through figuring out how to deploy 
 |Exposures Provider|CAM Provider|stars-app.renci.org/cam-kp||
 |(im)Prove Agent|(im)Prove Agent|evidara.healthdatascience.cloud||
 |(im)Prove Agent|SPOKE Provider|||
-|Genetics Provider|Genetics Provider|translator.broadinstitute.org/genetics_provider||
+|Genetics Provider|Genetics Provider|translator.broadinstitute.org/genetics_provider/trapi/v1.0||
 |Molecular Data Provider|MolePro|translator.broadinstitute.org/molepro||
 |Multiomics Provider|Wellness Provider|biothings.ncats.io||
 |Multiomics Provider|BigGim|biothings.ncats.io||
