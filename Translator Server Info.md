@@ -10,7 +10,7 @@ This page is a work in progress.  As we move through figuring out how to deploy 
 |Clinical Data Services|RCT PICO Provider|||
 |Connections Hypothesis Provider|CHP|chp.thayer.dartmouth.edu||
 |Expander Agent|ARAX|arax.ncats.io||
-|Explanatory Agent|xARA Agent|explantory-agent.azurewebsites.net/v1.0||
+|Explanatory Agent|xARA Agent|https://explanatory-agent.azurewebsites.net||
 |Exploring Agent|BTE Agent|api.bte.ncats.io||
 |Exploring Agent|PFOCR Provider|biothings.ncats.io/pfocr||
 |Exposures Provider|ICEES+ Provider|icees.renci.org:16340||
