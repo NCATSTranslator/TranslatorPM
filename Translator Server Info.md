@@ -18,7 +18,7 @@ This page is a work in progress.  As we move through figuring out how to deploy 
 |(im)Prove Agent|(im)Prove Agent|evidara.healthdatascience.cloud||
 |(im)Prove Agent|SPOKE Provider|||
 |Genetics Provider|Genetics Provider|translator.broadinstitute.org/genetics_provider||
-|Molecular Data Provider|MolePro|translator.broadinstitute.org/molepro||
+|Molecular Data Provider|MolePro|https://translator.broadinstitute.org/molepro/trapi/v1.0||
 |Multiomics Provider|Wellness Provider|biothings.ncats.io||
 |Multiomics Provider|BigGim|biothings.ncats.io||
 |Multiomics Provider|Drug Response Provider|biothings.ncats.io||
