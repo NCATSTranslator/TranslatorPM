@@ -38,7 +38,4 @@ This page is a work in progress.  As we move through figuring out how to deploy 
 |SRI|Edge Normalizer|edgenormalization-sri.renci.org||
 |SRI|Node Normalization|nodenormalization-sri.renci.org||
 |SRI|BL Compliance Service|||
-|SRI|Plater|||
-|SRI|Reasoner-Pydantic|||
-|SRI|Reasoner-Validator|||
 |SRI|Reference KG|scigraph.ncats.io||
