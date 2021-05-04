@@ -33,7 +33,7 @@ This page is a work in progress.  As we move through figuring out how to deploy 
 |Text Mining Provider|Targeted Association KG|smart-api.info/ui/978fe380a147a8641caf72320862697b||
 |Unsecret Agent|Unsecret Agent|unsecret.ncats.io||
 |SRI|Biolink (BL) Lookup|bl-lookup.sri.renci.org||
-|SRI|Reference KG|monarch-sandbox.cgrb.oregonstate.edu||
+|SRI|Reference KG|trapi.monarchinitiative.org||
 |SRI|Name Resolver|name-resolution-sri.renci.org||
 |SRI|Edge Normalizer|edgenormalization-sri.renci.org||
 |SRI|Node Normalization|nodenormalization-sri.renci.org||
